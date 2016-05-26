@@ -7,11 +7,12 @@ This Project is done for my Undergraduate project work under supervised Prof. Dr
 
 ## Downloads
 
-* [Link](https://github.com/minhazul-haque/BanglaPDFtoBanglaDOC/releases)
+* [Link](https://github.com/habibruetian12/BanglaPDFtoBanglaDOC/releases/download/1.0.0/BanglaPDFtoBanglaDOC.jar)
 
 ## Screenshots
 
 ![Logo](doc_logo.jpg)
+![logo](Sc-1.jpg)
 
 ### TODO
 
