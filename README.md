@@ -11,8 +11,8 @@ This Project is done for my Undergraduate project work under supervised Prof. Dr
 
 ## Screenshots
 
-![Logo](doc_logo.jpg)
-![logo](Sc-1.PNG)
+![Logo](Capture-1.PNG)
+![logo](Capture-2.PNG)
 
 ### TODO
 
