@@ -7,7 +7,7 @@ This Project is done for my Undergraduate project work under supervised Prof. Dr
 
 ## Downloads
 
-* [Link](https://github.com/habibruetian12/BanglaPDFtoBanglaDOC/releases/download/1.0.0/BanglaPDFtoBanglaDOC.jar)
+* [Link](https://github.com/habibruetian12/BanglaPDFtoBanglaDOC/releases/download/1.0.0/BP2BD.jar)
 
 ## Screenshots
 
