@@ -1,7 +1,10 @@
 # BanglaPDFtoBanglaDOC
 
 ```
-This Project is done for my Undergraduate project work under supervised Prof. Dr. Nazrul Islam Mandal, Head Dept. of CSE, RUET.
+This Project is done for my Undergraduate project work under supervised 
+Prof. Dr. Nazrul Islam Mandal, 
+Head Dept. of CSE, 
+RUET, Rajshahi, Bangladesh.
 ```
  This project actually converts Bangla PDF to Bangla DOC. The PDF should be in ASCII font format. 
 
@@ -42,4 +45,4 @@ This Project is done for my Undergraduate project work under supervised Prof. Dr
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
-    ```
+ ```
