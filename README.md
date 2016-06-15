@@ -26,7 +26,8 @@ This Project is done for my Undergraduate project work under supervised Prof. Dr
 * [Apache PDFBox | A Java PDF Library] (https://pdfbox.apache.org/) 
 
 ## License
-``` BanglaPDFtoBanglaDOC is a software to  convert Bangla PDF to Bangla DOC.
+``` 
+    BanglaPDFtoBanglaDOC is a software to  convert Bangla PDF to Bangla DOC.
     Copyright (C) 2016  Habibur Rahman
 
     This program is free software: you can redistribute it and/or modify
@@ -40,4 +41,5 @@ This Project is done for my Undergraduate project work under supervised Prof. Dr
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.```
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+    ```
