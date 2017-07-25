@@ -10,13 +10,13 @@ RUET, Rajshahi, Bangladesh.
 
 ## Downloads
 
-* [Link](https://github.com/habibruetian12/BanglaPDFtoBanglaDOC/releases/download/1.0.1/BP2BD.jar)
+* [Link](https://github.com/habibrahmanbd/BanglaPDFtoBanglaDOC/releases/download/1.0.1/BP2BD.jar)
 
 ## Screenshots
 
-![Logo](Capture-1.PNG)
-![logo](Capture-2.PNG)
-![logo](Capture-3.PNG)
+![Logo](https://github.com/habibrahmanbd/BanglaPDFtoBanglaDOC/blob/master/Capture-1.PNG)
+![logo](https://github.com/habibrahmanbd/BanglaPDFtoBanglaDOC/blob/master/Capture-2.PNG)
+![logo](https://github.com/habibrahmanbd/BanglaPDFtoBanglaDOC/blob/master/Capture-3.PNG)
 ## TODO
 
 * Add Image Parsing
