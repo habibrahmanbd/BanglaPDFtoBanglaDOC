@@ -1,0 +1,8 @@
+title: BanglaPDFtoBanglaDOC
+description: Bangla PDF to Doc converter is a free software to convert the Bangla PDF to Doc.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
