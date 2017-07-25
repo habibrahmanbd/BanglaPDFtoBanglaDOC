@@ -26,7 +26,7 @@ RUET, Rajshahi, Bangladesh.
 
 ## Credits
 
-* [Apache PDFBox | A Java PDF Library] (https://pdfbox.apache.org/) 
+* [Apache PDFBox | A Java PDF Library](https://pdfbox.apache.org/) 
 
 ## License
 ``` 
