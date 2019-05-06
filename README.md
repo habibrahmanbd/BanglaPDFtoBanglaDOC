@@ -1,12 +1,5 @@
 # BanglaPDFtoBanglaDOC
-
-```
-This Project is done for my Undergraduate project work under supervised 
-Prof. Dr. Nazrul Islam Mandal, 
-Head Dept. of CSE, 
-RUET, Rajshahi, Bangladesh.
-```
- This project actually converts Bangla PDF to Bangla DOC. The PDF should be in ASCII font format. 
+An open source Desktop application to convert Document Files from PDF files. It can convert all the Bangla PDF that are in ASCII font.
 
 ## Downloads
 
@@ -17,6 +10,7 @@ RUET, Rajshahi, Bangladesh.
 ![Logo](Capture-1.PNG)
 ![logo](Capture-2.PNG)
 ![logo](Capture-3.PNG)
+
 ## TODO
 
 * Add Image Parsing
@@ -25,6 +19,15 @@ RUET, Rajshahi, Bangladesh.
 * Add more User Friendly GUI
 
 ## Credits
+
+    ```
+    This Project is done for my Undergraduate project work under supervised 
+    Prof. Dr. Nazrul Islam Mandal, 
+    Head Dept. of CSE, 
+    RUET, Rajshahi, Bangladesh.
+    ```
+
+## References
 
 * [Apache PDFBox | A Java PDF Library] (https://pdfbox.apache.org/) 
 
